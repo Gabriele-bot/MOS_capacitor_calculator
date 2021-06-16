@@ -5,6 +5,6 @@ The formulas used here are from the course "Microelectronics" held by professor 
 
 This is an example of a energy band plot result.
 <center>
-    <img src="Example_images/Energy_band.pdf" alt="Drawing" style="width: 500px"/>
+    <img src="E/Energy_band.png" alt="Drawing" style="width: 500px"/>
 </center>
 
